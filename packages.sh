@@ -36,12 +36,4 @@ pkg install sl -y
 echo " "
 pkg install openjdk-17
 echo " "
-wget -O install-nethunter-termux https://offs.ec/2MceZWr
-echo " "
-git clone https://github.com/binarioGH/Lazymux
-echo " "
-apt update && apt upgrade 
-echo " "
-git clone https://github.com/MFDGaming/ubuntu-in-termux.git
-echo " "
 apt update 
